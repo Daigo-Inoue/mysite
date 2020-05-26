@@ -1,0 +1,4 @@
+DIRSに何も入っておらず、APP_DIRSがTrueになっているので、Djangoはプロジェクト内の各アプリケーションの配下にあるtemplatesという名前のディレクトリ内を探索する。
+そのため、単にアプリケーション配下にTemplateファイルを置いてもだめ。templatesというディレクトリを作る必要がある。
+各アプリケーションのtemplatesディレクトリが探索の起点となるので、myapp/templates/myapp/index.html に置いたTemplateファイルをViewの中で指定するには、単にmyapp/index.html と書けばよい。
+

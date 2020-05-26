@@ -1,2 +1,3 @@
 {{ block.super }}で親テンプレートのデフォルト値を再利用できる。
 
+{% url ‘base:top’ %}を用いました。このように書くとbase/urls.pyでapp_nameで指定した’base’アプリケーション名の’top’のURLを自動的に挿入してくれます。

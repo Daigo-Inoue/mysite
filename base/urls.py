@@ -2,7 +2,7 @@ from django.urls import path
 from django.views.generic import TemplateView
 from . import views
 
-name = 'base'
+app_name = 'base'
 
 urlpatterns = [
     # path('', views.top, name='top'),

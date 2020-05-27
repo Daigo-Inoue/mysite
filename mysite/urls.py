@@ -20,6 +20,6 @@ import base
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('base.urls')).
-path('thread/', include('thread.urls')),
+    path('', include('base.urls')),
+    path('thread/', include('thread.urls')),
 ]

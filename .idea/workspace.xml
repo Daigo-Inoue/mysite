@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a8fe35a4-1e33-4a81-b93f-14826ed3d797" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo/Django/models" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Django/models" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/Docker/Docker" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Docker/Docker" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +18,7 @@
   <component name="ProjectId" id="1cRaxgjW80f0NJQCIcShvX0wy3A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590494107325</updated>
-      <workItem from="1590494108553" duration="5966000" />
+      <workItem from="1590494108553" duration="6925000" />
     </task>
     <servers />
   </component>

@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a8fe35a4-1e33-4a81-b93f-14826ed3d797" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/terms.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/top.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo/Django/urls" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Django/urls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo/Django/views" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Django/views" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/Django/forms" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Django/forms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/Django/templates" beforeDir="false" afterPath="$PROJECT_DIR$/memo/Django/templates" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thread/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thread/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread/views.py" afterDir="false" />
     </list>
